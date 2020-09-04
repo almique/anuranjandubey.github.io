@@ -151,3 +151,6 @@ cython_debug/
 objects/temp
 temp 
 AWSCLIV2.pkg
+.DS_Store
+.DS_Store
+assets/.DS_Store
